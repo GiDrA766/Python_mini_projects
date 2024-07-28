@@ -1,6 +1,5 @@
 import os
 import eyed3
-import mutagen.mp4
 import translit
 import mutagen
 
